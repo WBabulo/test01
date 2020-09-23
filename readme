@@ -1,2 +1,14 @@
 关联GitHUB
-File-->settings..-->Version Control-->GitHub-->Add Account-->账号密码，成功后点Apply
+File--> settings.. --> Version Control --> GitHub --> Add Account --> 账号密码，成功后点Apply
+
+第一次推送上去：
+
+
+
+第一次克隆项目下来：
+file --> new --> Project from Version Control --> Git --> 填写地址
+
+
+第二次，拉取Pull别人修改好的：
+
+直接在工作区点右键 --> Git --> Repository --> Pull..
